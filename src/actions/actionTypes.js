@@ -1,0 +1,15 @@
+
+export const LOAD_IMAGE = 'LOAD_IMAGE'
+export const STORE_IMAGE = 'STORE_IMAGE'
+export const STORE_IMAGE_LOCAL = 'STORE_IMAGE_LOCAL'
+export const IMAGE_ERR = 'IMAGE_ERR'
+
+export const FETCH_NEXT_BATCH = 'FETCH_NEXT_BATCH'
+
+export const STORE_NEXT_BATCH = 'STORE_NEXT_BATCH'
+
+export const STORE_TO_FAVOURITE = 'STORE_TO_FAVOURITE'
+export const ADD_TO_FAV = 'ADD_TO_FAV'
+export const REMOVE_FROM_FAV = 'REMOVE_FROM_FAV'
+export const DELETE_FROM_FAV = 'DELETE_FROM_FAV'
+export const DRAG_IMAGE = 'DRAG_IMAGE'
